@@ -4,7 +4,7 @@ site_name: Mis documentos
 nav:
   - Home: index.md
   - DHCP: dhcp.md
-
+  - personal_page: personal_page.md  
 
 site_author: Curro
 
