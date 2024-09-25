@@ -3,6 +3,7 @@ site_name: Mis documentos
 
 nav:
   - Home: index.md
+  - DHCP: dhcp.md
 
 
 site_author: Curro
