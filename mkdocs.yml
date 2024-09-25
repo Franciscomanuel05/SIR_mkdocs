@@ -2,7 +2,7 @@ site_name: Mis documentos
 
 
 nav:
-  - Inicio: index.md
+  - Home: index.md
 
 
 site_author: Curro
