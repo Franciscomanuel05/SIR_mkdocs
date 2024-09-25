@@ -12,7 +12,7 @@ site_description: >-
 
 
 theme:
-  name: material
+  name: readthedocs
   language: es
   features:
     - navigation.top
