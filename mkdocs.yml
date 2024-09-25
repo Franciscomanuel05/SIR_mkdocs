@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: Mis documentos
+
+
+nav:
+  - Inicio: index.md
+
+
+site_author: Curro
+
+site_description: >-
+  página con documentos de 2ºASIR
+
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.indexes
+    - header.autohide
